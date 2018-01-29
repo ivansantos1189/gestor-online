@@ -1,0 +1,9 @@
+C:\Projetos - GitHub\GestorOnline\GestorOnline.Domain\bin\Debug\netcoreapp2.0\GestorOnline.Domain.deps.json
+C:\Projetos - GitHub\GestorOnline\GestorOnline.Domain\bin\Debug\netcoreapp2.0\GestorOnline.Domain.dll
+C:\Projetos - GitHub\GestorOnline\GestorOnline.Domain\bin\Debug\netcoreapp2.0\GestorOnline.Domain.pdb
+C:\Projetos - GitHub\GestorOnline\GestorOnline.Domain\obj\Debug\netcoreapp2.0\GestorOnline.Domain.csprojResolveAssemblyReference.cache
+C:\Projetos - GitHub\GestorOnline\GestorOnline.Domain\obj\Debug\netcoreapp2.0\GestorOnline.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos - GitHub\GestorOnline\GestorOnline.Domain\obj\Debug\netcoreapp2.0\GestorOnline.Domain.AssemblyInfoInputs.cache
+C:\Projetos - GitHub\GestorOnline\GestorOnline.Domain\obj\Debug\netcoreapp2.0\GestorOnline.Domain.AssemblyInfo.cs
+C:\Projetos - GitHub\GestorOnline\GestorOnline.Domain\obj\Debug\netcoreapp2.0\GestorOnline.Domain.dll
+C:\Projetos - GitHub\GestorOnline\GestorOnline.Domain\obj\Debug\netcoreapp2.0\GestorOnline.Domain.pdb
