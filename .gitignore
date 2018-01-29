@@ -175,12 +175,14 @@ BundleArtifacts/
 
 # Others
 ClientBin/
+[Ss]tyle[Cc]op.*
 ~$*
 *~
 *.dbmdl
 *.dbproj.schemaview
 *.pfx
 *.publishsettings
+node_modules/
 orleans.codegen.cs
 
 /node_modules
@@ -235,3 +237,6 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/GestorOnline.Presentation/wwwroot/dist
+/GestorOnline.Presentation/Properties
+/GestorOnline.Presentation/ClientApp/dist
