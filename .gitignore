@@ -240,3 +240,6 @@ _Pvt_Extensions
 /GestorOnline.Presentation/wwwroot/dist
 /GestorOnline.Presentation/Properties
 /GestorOnline.Presentation/ClientApp/dist
+/GestorOnline.Application/obj
+.vs
+
